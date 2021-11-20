@@ -65,6 +65,7 @@ body{
 }
 .hero{
     padding: 2rem;
+    padding-top: 5rem;
     text-align: center;
 }
 .hero .hero-img{
@@ -95,6 +96,10 @@ body{
     border-top-right-radius: 1.5rem;
     padding: 2rem 1rem;
     color: wheat;
+}
+.footer-header{
+    font-weight: bold;
+    font-size: large;
 }
 .footer .link{
     color: wheat;
